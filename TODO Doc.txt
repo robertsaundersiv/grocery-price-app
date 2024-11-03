@@ -1,0 +1,25 @@
+Create Basic Flask Routes:
+TODO: Set up Flask routes for the Home Page, Grocery List Page, and Price Comparison Page in app.py.
+Home Page Route: Display search bar for grocery items.
+Grocery List Route: Display items added to the grocery list.
+Price Comparison Route: Placeholder for future data integration.
+HTML Templates and Front-End Structure:
+TODO: Create HTML templates for each page and save them in the templates/ folder.
+Home Page Template (home.html): Add a search bar and placeholders for displaying combined store results.
+Grocery List Page Template (grocery_list.html): Add a form to add grocery items and display them in a list format.
+Price Comparison Page Template (price_comparison.html): Include placeholders for price information that will be filled once we integrate APIs.
+Basic User Interaction (JavaScript + HTML):
+TODO: Add JavaScript in the static/ folder to manage adding items to grocery lists.
+Local Storage: Store items temporarily using local storage for now.
+Grocery List Interaction: Enable users to add, edit, and remove items from the list.
+Styling the Front-End (CSS):
+TODO: Create a CSS file in the static/ folder to style the front-end.
+Clean and Simple Design: Focus on making the UI intuitive and visually organized.
+CSS Components: Style the search bar, grocery list display, and buttons for ease of use.
+Optional Skills Expansion for Later**:
+User Authentication: Set up user login functionality after the basic app is working.
+TODO: Create user registration and login pages, integrate authentication.
+Database Integration (SQLite + SQLAlchemy): Later, we can create a database to store user preferences, favorite stores, and shopping lists.
+TODO: Set up an SQLite database and connect it with SQLAlchemy for user data persistence.
+Data Integration: Once the basic site structure is done, we will work on connecting to store APIs or using web scraping for real data.
+TODO: Research available store APIs and explore using BeautifulSoup for web scraping.
